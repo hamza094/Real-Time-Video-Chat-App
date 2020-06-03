@@ -1,15 +1,15 @@
-# laravel-video-chat-demo
-Laravel Video Chat using Socket.IO and WebRTC ( Demo )
+# laravel-video-chat
+Laravel Real Time Video Chat using Pusher and WebRTC
 
-Install the JavaScript dependencies:
+Add your pusher credentials in env and bootstrap.js:
 
-```javascript
-    npm install
-    npm install --save laravel-echo js-cookie vue-timeago socket.io socket.io-client webrtc-adapter vue-chat-scroll
-```
+## Features.
+- Video call
+- Live Chat
+- Send Accept Request
 
 ```php
 php artisan migrate --seed
 ```
 
-[laravel-video-chat](https://github.com/PHPJunior/laravel-video-chat)
+[live demo](https://github.com/PHPJunior/laravel-video-chat)
