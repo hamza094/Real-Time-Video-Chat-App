@@ -7,9 +7,11 @@ Add your pusher credentials in .env and bootstrap.js:
 - Video call
 - Live Chat
 - Send Message Accept Request
+- File Sharing
+- AWS S3
 
 ```php
 php artisan migrate --seed
 ```
 
-[live demo](https://github.com/PHPJunior/laravel-video-chat)
+[live demo](https://rtclara.herokuapp.com/)
