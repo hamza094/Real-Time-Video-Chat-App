@@ -22,7 +22,7 @@
         "js-cookie": "^2.2.1",
         "laravel-echo": "^1.8.0",
         "pusher-js": "^6.0.3",
-        "socket.io": "^2.3.0",
+        "socket.io": "^2.5.0",
         "socket.io-client": "^2.3.0",
         "vue-chat-scroll": "^1.4.0",
         "vue-timeago": "^3.4.4",
